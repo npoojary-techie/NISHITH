@@ -1,6 +1,6 @@
 from tkinter import *
 root=Tk()
-root.title("AJAY MISHRA")
+root.title("NISHITH POOJARY")
 canvas_width=500
 canvas_height=500
 c=Canvas(root,width=canvas_width,height=canvas_height,bg="green")
